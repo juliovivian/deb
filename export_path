@@ -1,0 +1,2 @@
+#!/bin/bash
+export PATH=/home/julio/.local/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin sudo export PATH=/home/julio/.local/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin
